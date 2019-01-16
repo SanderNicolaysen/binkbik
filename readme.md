@@ -3,8 +3,6 @@
 
 Thanks for opening the readme, it really means a lot wow.
 
-![hud](https://user-images.githubusercontent.com/25177109/51271452-e56fb380-19c7-11e9-8c66-6f38f95e4048.png)
-
 ### Default Keybindings
 #### Menu
 ```
@@ -23,6 +21,8 @@ S                       -   Shield
 M                       -   Missile
 G                       -   Homing Missile
 ```
+
+![hud](https://user-images.githubusercontent.com/25177109/51271452-e56fb380-19c7-11e9-8c66-6f38f95e4048.png)
 
 ### Supported program arguments
 
