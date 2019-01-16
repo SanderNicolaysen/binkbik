@@ -1,0 +1,127 @@
+﻿2017-12-15 00:10:20.817 DEBUG [26312] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2017-12-15 00:10:20.817 DEBUG [26312] [HealthBar::HealthBar@33] Created new health bar and health heart
+2017-12-15 00:10:20.817 DEBUG [26312] [EnergyBar::EnergyBar@33] Created new energy bar
+2017-12-15 00:10:20.817 INFO  [26312] [Game::placePlanets@368] Generated planets.
+2017-12-15 00:10:20.817 DEBUG [26312] [Spaceship::Spaceship@47] Created new spaceship
+2017-12-15 00:10:20.817 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.817 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.817 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.817 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.823 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.823 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.823 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.823 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:20.823 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:21.853 DEBUG [26312] [StartScreen::enter@7] Entered start screen
+2017-12-15 00:10:22.161 DEBUG [26312] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2017-12-15 00:10:22.161 DEBUG [26312] [HealthBar::HealthBar@33] Created new health bar and health heart
+2017-12-15 00:10:22.161 DEBUG [26312] [EnergyBar::EnergyBar@33] Created new energy bar
+2017-12-15 00:10:22.161 INFO  [26312] [Game::placePlanets@368] Generated planets.
+2017-12-15 00:10:22.161 DEBUG [26312] [Spaceship::Spaceship@47] Created new spaceship
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:22.161 DEBUG [26312] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:10:23.733 DEBUG [26312] [Pause::enter@22] Entered pause menu
+2017-12-15 00:14:57.206 DEBUG [25192] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2017-12-15 00:14:57.206 DEBUG [25192] [HealthBar::HealthBar@33] Created new health bar and health heart
+2017-12-15 00:14:57.206 DEBUG [25192] [EnergyBar::EnergyBar@33] Created new energy bar
+2017-12-15 00:14:57.206 INFO  [25192] [Game::placePlanets@368] Generated planets.
+2017-12-15 00:14:57.206 DEBUG [25192] [Spaceship::Spaceship@47] Created new spaceship
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 00:14:57.206 DEBUG [25192] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2017-12-15 01:02:36.707 DEBUG [17692] [HealthBar::HealthBar@33] Created new health bar and health heart
+2017-12-15 01:02:36.707 DEBUG [17692] [EnergyBar::EnergyBar@33] Created new energy bar
+2017-12-15 01:02:36.707 INFO  [17692] [Game::placePlanets@368] Generated planets.
+2017-12-15 01:02:36.707 DEBUG [17692] [Spaceship::Spaceship@47] Created new spaceship
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2017-12-15 01:02:36.707 DEBUG [17692] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2019-01-16 17:59:07.755 DEBUG [7704] [HealthBar::HealthBar@33] Created new health bar and health heart
+2019-01-16 17:59:07.755 DEBUG [7704] [EnergyBar::EnergyBar@33] Created new energy bar
+2019-01-16 17:59:07.755 INFO  [7704] [Game::placePlanets@368] Generated planets.
+2019-01-16 17:59:07.755 DEBUG [7704] [Spaceship::Spaceship@47] Created new spaceship
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:07.755 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:14.680 DEBUG [7704] [StartScreen::enter@7] Entered start screen
+2019-01-16 17:59:16.141 DEBUG [7704] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2019-01-16 17:59:16.141 DEBUG [7704] [HealthBar::HealthBar@33] Created new health bar and health heart
+2019-01-16 17:59:16.141 DEBUG [7704] [EnergyBar::EnergyBar@33] Created new energy bar
+2019-01-16 17:59:16.141 INFO  [7704] [Game::placePlanets@368] Generated planets.
+2019-01-16 17:59:16.141 DEBUG [7704] [Spaceship::Spaceship@47] Created new spaceship
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:16.141 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:35.528 DEBUG [7704] [Pause::enter@22] Entered pause menu
+2019-01-16 17:59:40.118 DEBUG [7704] [StartScreen::enter@7] Entered start screen
+2019-01-16 17:59:40.715 DEBUG [7704] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2019-01-16 17:59:40.715 DEBUG [7704] [HealthBar::HealthBar@33] Created new health bar and health heart
+2019-01-16 17:59:40.715 DEBUG [7704] [EnergyBar::EnergyBar@33] Created new energy bar
+2019-01-16 17:59:40.715 INFO  [7704] [Game::placePlanets@368] Generated planets.
+2019-01-16 17:59:40.715 DEBUG [7704] [Spaceship::Spaceship@47] Created new spaceship
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 17:59:40.715 DEBUG [7704] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:00:00.646 DEBUG [7704] [Missile::Missile@23] Created new missile
+2019-01-16 18:00:05.017 DEBUG [7704] [Missile::Missile@23] Created new missile
+2019-01-16 18:00:05.542 DEBUG [7704] [Missile::Missile@23] Created new missile
+2019-01-16 18:00:08.195 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:08.764 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:08.911 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:09.010 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:09.140 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:09.822 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.252 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.347 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.446 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.547 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.647 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.747 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.848 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:10.951 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:11.051 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:12.101 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:12.201 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:12.686 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:12.786 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:12.885 DEBUG [7704] [Beam::Beam@22] Created new beam
+2019-01-16 18:00:13.268 DEBUG [7704] [Pause::enter@22] Entered pause menu
