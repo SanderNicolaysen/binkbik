@@ -125,3 +125,33 @@
 2019-01-16 18:00:12.786 DEBUG [7704] [Beam::Beam@22] Created new beam
 2019-01-16 18:00:12.885 DEBUG [7704] [Beam::Beam@22] Created new beam
 2019-01-16 18:00:13.268 DEBUG [7704] [Pause::enter@22] Entered pause menu
+2019-01-16 18:35:21.967 DEBUG [7780] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2019-01-16 18:35:21.968 DEBUG [7780] [HealthBar::HealthBar@33] Created new health bar and health heart
+2019-01-16 18:35:21.968 DEBUG [7780] [EnergyBar::EnergyBar@33] Created new energy bar
+2019-01-16 18:35:21.968 INFO  [7780] [Game::placePlanets@368] Generated planets.
+2019-01-16 18:35:21.968 DEBUG [7780] [Spaceship::Spaceship@47] Created new spaceship
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:21.968 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:24.431 DEBUG [7780] [StartScreen::enter@7] Entered start screen
+2019-01-16 18:35:25.833 DEBUG [7780] [FuelBar::FuelBar@33] Created new fuel bar and fuel can
+2019-01-16 18:35:25.833 DEBUG [7780] [HealthBar::HealthBar@33] Created new health bar and health heart
+2019-01-16 18:35:25.833 DEBUG [7780] [EnergyBar::EnergyBar@33] Created new energy bar
+2019-01-16 18:35:25.833 INFO  [7780] [Game::placePlanets@368] Generated planets.
+2019-01-16 18:35:25.833 DEBUG [7780] [Spaceship::Spaceship@47] Created new spaceship
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:25.833 DEBUG [7780] [Enemy::Enemy@23] Created new enemy
+2019-01-16 18:35:28.500 DEBUG [7780] [Pause::enter@22] Entered pause menu
