@@ -1,4 +1,4 @@
-# Binkbik Steambang
+# Space Exploration Game C++/SFML
 #### A 2D asteroid mining experience (Working Title)
 
 Thanks for opening the readme, it really means a lot wow.
